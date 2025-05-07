@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?text=.&fontColor=ffffff&fontSize=40&fontAlign=40&height=250&section=head&color=gradient)
 
 <p align='center'>
-  <strong>Programador LowCode e Estudante de ADS</strong>, <strong>Recife</strong>.
+  <strong></strong>, <strong>Recife</strong>.
 </p>
 
 <p align='center'>  
